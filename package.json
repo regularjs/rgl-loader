@@ -1,0 +1,18 @@
+{
+  "name": "rgl-loader",
+  "version": "0.4.0",
+  "description": "regularjs template loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "loader",
+    "webpack"
+  ],
+  "author": "leeluolee",
+  "license": "MIT",
+  "peerDependencies": {
+    "regularjs": "^0.4.1"
+  }
+}
